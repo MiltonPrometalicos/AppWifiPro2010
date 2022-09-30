@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=gd-p2hJyaB8&ab_channel=WaspSoluciones
+
+git init
+
+git remote add origin https://github.com/MiltonPrometalicos/AppWifiPro2010.git
+
+git status
+
+git add * => agrega todos los archivos de la carpeta
+
+git commit -m "Subiendo archivos de documentacion inicial"
+
+git push origin master
+
+
+-----------------------------------Info tomada del video----------------------------------
+
+---- comandos para subir repositorio---
+git init
+git remote add origin -link-   //para enlazar tu carpeta local con tu repo creado en github
+git status   // ver el estatus de tus archivos locales
+git add *  // agregar archivos
+git commit -m "mensaje"  // Git mapee los cambios
+git push origin master   // subir archivos
